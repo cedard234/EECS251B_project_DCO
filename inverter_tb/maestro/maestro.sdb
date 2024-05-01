@@ -228,7 +228,7 @@
 			</checkpoint>
 			<timestamp>Mar 13 16:23:29 2024</timestamp>
 			<uuid>{b15dd2da-cf0a-4887-a96c-93879c028f91}</uuid>
-			<resultsname>/scratch/di_wang/virtuoso_workdir/EECS251B_project_DCO/inverter_tb/maestro/results/maestro/ExplorerRun.0.rdb</resultsname>
+			<resultsname></resultsname>
 			<simresults>$AXL_SETUPDB_DIR/results/maestro/ExplorerRun.0.rdb</simresults>
 			<rawdatadelstrategy>SaveAll
 				<simdatasavemode>All</simdatasavemode>
@@ -237,11 +237,11 @@
 			<netlistdelstrategy>SaveAll</netlistdelstrategy>
 			<uselocalpsfdir>false</uselocalpsfdir>
 			<localpsfdir>/tmp/eda-2.EECS.Berkeley.EDU_eecs251b-aaj_162329769</localpsfdir>
-			<psfdir>/home/cc/eecs251b/sp24/class/eecs251b-aaj/simulation/EECS251B_project_DCO/inverter_tb/maestro/results/maestro/ExplorerRun.0</psfdir>
-			<simdir>/home/cc/eecs251b/sp24/class/eecs251b-aaj/simulation/EECS251B_project_DCO/inverter_tb/maestro/results/maestro/ExplorerRun.0</simdir>
+			<psfdir></psfdir>
+			<simdir></simdir>
 			<gendatasheetplotsonsimulation>0</gendatasheetplotsonsimulation>
 			<loggingdatabasedir>/scratch/di_wang/virtuoso_workdir/project/inverter_tb/maestro/results/maestro</loggingdatabasedir>
-			<runlog>/scratch/di_wang/virtuoso_workdir/EECS251B_project_DCO/inverter_tb/maestro/results/maestro/ExplorerRun.0.log</runlog>
+			<runlog></runlog>
 			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/ExplorerRun.0.log</runlogfile>
 			<schematicpoint></schematicpoint>
 			<test>all</test>

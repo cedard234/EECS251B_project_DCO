@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<statedb ICVersion="IC6.1.8-64b.500.35" modifiedTime="05/01/2024 01:39:11" version="5">active
+<statedb ICVersion="IC6.1.8-64b.500.35" modifiedTime="04/30/2024 23:09:28" version="5">Interactive.0
 	<Test Name="project_DCO_tb_1">
 		<component Name="adeInfo" Type="skillTable">adeinfo
 			<field Name="designInfo" Type="list">("EECS251B_project_DCO_pnupdate" "DCO_tb" "schematic" "spectre")</field>
@@ -1565,9 +1565,9 @@
 					<field Name="libName" Type="string">"analogLib"</field>
 					<field Name="plotOp" Type="list">nil</field>
 					<field Name="saveOp" Type="list">nil</field>
-					<field Name="uniqueName" Type="string">"/I0/I2/R0"</field>
-					<field Name="inLastSet" Type="list">nil</field>
 					<field Name="index" Type="fixnum">7</field>
+					<field Name="inLastSet" Type="list">nil</field>
+					<field Name="uniqueName" Type="string">"/I0/I2/R0"</field>
 				</field>
 			</field>
 		</component>
@@ -2527,7 +2527,7 @@
 			<field Name="saveComponent" Type="skillList">
 				<field Name="saveComponent_0" Type="defstruct">sevVariableStruct
 					<field Name="name" Type="string">"CODE"</field>
-					<field Name="expression" Type="string">"{From/To}Auto:0:32:31{From/To}"</field>
+					<field Name="expression" Type="string">"1"</field>
 					<field Name="index" Type="fixnum">1</field>
 				</field>
 			</field>

@@ -1,6 +1,6 @@
 Starting Single Run, Sweeps and Corners...
 
-Current time: Wed May  1 01:39:09 2024 
+Current time: Tue Apr 30 23:09:29 2024 
 Best design point: 1
 Design specs: 
 	project_DCO_tb_1	corner	Nominal - 
@@ -11,8 +11,8 @@ Design specs:
 	Edge Phase Noise; dBc/Hz; pm0		Error	No
 Design parameters: 
 
-ExplorerRun.0
-Number of points completed: 32
+Interactive.0
+Number of points completed: 2
 Number of simulation errors: 0
-ExplorerRun.0 completed. 
-Current time: Wed May  1 01:40:44 2024 
+Interactive.0 completed. 
+Current time: Tue Apr 30 23:10:41 2024 
